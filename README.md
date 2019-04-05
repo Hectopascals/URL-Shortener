@@ -14,3 +14,6 @@ In terminal, have 3 windows/tabs opened run the following commands in each:
 ## More info
 * Frontend is hosted on localhost:3000
 * Backend is hosted on localhost:6060
+
+## Screenshot(s)
+![Screenshot](https://raw.githubusercontent.com/Hectopascals/URL-Shortener/master/Screenshot.png)
